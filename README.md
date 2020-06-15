@@ -1,6 +1,6 @@
 # Scripts from my blog
 
-This repository contains all the boilerplate, scripts and example I have created from blog posts.
+This repository contains all the boilerplates, scripts and examples I have created from blog posts.
 
 # List
 
