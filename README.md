@@ -4,4 +4,5 @@ This repository contains all the boilerplate, scripts and example I have created
 
 # List
 
-* `logrus-cobra` : A example of integrating logrus with cobra.
+* `logrus-cobra` : An example of integrating logrus with cobra.
+* `parse-git-status` : A git status parser in pure Go
